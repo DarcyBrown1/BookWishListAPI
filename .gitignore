@@ -1,0 +1,15 @@
+.*.swp
+*~
+.DS_Store
+.idea
+.vscode
+.push
+.eggs
+*.egg-info
+__pycache__
+*.pyc
+.pytest_cache
+.coverage
+venv
+.tox
+node_modules
